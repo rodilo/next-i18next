@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { useTranslation } from 'next-i18next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
-import { Header } from '../components/Header'
+import { Header } from '../../components/Header'
 import { Footer } from '../components/Footer'
 
 const SecondPage = () => {
